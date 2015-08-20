@@ -16,19 +16,17 @@
 package org.grails.jaxrs.provider;
 
 import grails.converters.JSON;
-
-import java.io.IOException;
-import java.io.OutputStream;
-import java.io.OutputStreamWriter;
-import java.io.Writer;
+import org.grails.jaxrs.support.MessageBodyWriterSupport;
+import org.grails.web.converters.configuration.ConvertersConfigurationHolder;
 
 import javax.ws.rs.Produces;
 import javax.ws.rs.WebApplicationException;
 import javax.ws.rs.core.MultivaluedMap;
 import javax.ws.rs.ext.Provider;
-
-import org.codehaus.groovy.grails.web.converters.configuration.ConvertersConfigurationHolder;
-import org.grails.jaxrs.support.MessageBodyWriterSupport;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.io.OutputStreamWriter;
+import java.io.Writer;
 
 /**
  * Provider for Grails' {@link JSON} converter class.

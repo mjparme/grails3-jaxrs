@@ -1,6 +1,6 @@
 package org.grails.jaxrs
 
-import org.codehaus.groovy.grails.web.servlet.GrailsDispatcherServlet
+import org.grails.web.servlet.mvc.GrailsDispatcherServlet
 import org.grails.jaxrs.generator.CodeGenerator
 import org.grails.jaxrs.provider.*
 import org.grails.jaxrs.web.JaxrsContext

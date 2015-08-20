@@ -20,7 +20,7 @@ import groovy.text.SimpleTemplateEngine
 
 import org.apache.commons.logging.Log
 import org.apache.commons.logging.LogFactory
-import org.codehaus.groovy.grails.commons.GrailsDomainClass
+import grails.core.GrailsDomainClass
 import org.springframework.core.io.FileSystemResource
 
 /**

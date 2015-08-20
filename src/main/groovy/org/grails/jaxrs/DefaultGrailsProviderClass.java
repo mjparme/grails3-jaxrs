@@ -15,7 +15,7 @@
  */
 package org.grails.jaxrs;
 
-import org.codehaus.groovy.grails.commons.AbstractInjectableGrailsClass;
+import org.grails.core.AbstractInjectableGrailsClass;
 
 /**
  * @author Martin Krasser

@@ -1,15 +1,15 @@
 package org.grails.jaxrs.itest
 
-import grails.test.spock.IntegrationSpec
 import org.grails.jaxrs.JaxrsController
 import spock.lang.Shared
+import spock.lang.Specification
 
 import javax.servlet.http.HttpServletResponse
 
 /**
  * @author Noam Y. Tenne
  */
-abstract class IntegrationTestSpec extends IntegrationSpec implements JaxRsIntegrationTest {
+abstract class IntegrationTestSpec extends Specification implements JaxRsIntegrationTest {
 
     @Shared
     def grailsApplication

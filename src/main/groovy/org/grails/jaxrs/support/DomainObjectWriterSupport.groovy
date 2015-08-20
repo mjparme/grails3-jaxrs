@@ -29,8 +29,8 @@ import javax.ws.rs.core.MediaType
 import javax.ws.rs.core.MultivaluedMap
 import javax.ws.rs.ext.MessageBodyWriter
 
-import org.codehaus.groovy.grails.commons.GrailsApplication
-import org.codehaus.groovy.grails.plugins.support.aware.GrailsApplicationAware
+import grails.core.GrailsApplication
+import grails.core.support.GrailsApplicationAware
 
 /**
  * A message body writer that converts Grails domain objects to XML or JSON

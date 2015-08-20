@@ -16,8 +16,8 @@
 package org.grails.jaxrs.itest
 
 import grails.util.Holders
-import org.codehaus.groovy.grails.test.support.GrailsTestAutowirer
 import org.grails.jaxrs.JaxrsController
+import org.grails.test.support.GrailsTestAutowirer
 import org.junit.Before
 import org.junit.BeforeClass
 

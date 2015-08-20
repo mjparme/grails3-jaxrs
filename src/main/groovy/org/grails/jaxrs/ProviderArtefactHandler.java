@@ -15,13 +15,13 @@
  */
 package org.grails.jaxrs;
 
+import grails.core.ArtefactHandlerAdapter;
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+
 import javax.ws.rs.ext.ExceptionMapper;
 import javax.ws.rs.ext.MessageBodyReader;
 import javax.ws.rs.ext.MessageBodyWriter;
-
-import org.apache.commons.logging.Log;
-import org.apache.commons.logging.LogFactory;
-import org.codehaus.groovy.grails.commons.ArtefactHandlerAdapter;
 
 /**
  * @author Martin Krasser
@@ -33,7 +33,7 @@ public class ProviderArtefactHandler extends ArtefactHandlerAdapter {
     public static final String TYPE = "Provider";
 
     public ProviderArtefactHandler() {
-        super(TYPE, GrailsProviderClass.class, DefaultGrailsProviderClass.class, TYPE);
+        super(TYPE, DefaultGrailsProviderClass.class, DefaultGrailsProviderClass.class, TYPE);
     }
 
     /**

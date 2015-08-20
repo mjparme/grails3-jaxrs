@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53452a46-33aa-45fc-97e9-b03f5d3d767d" name="Default" comment="" />
+    <list default="true" id="53452a46-33aa-45fc-97e9-b03f5d3d767d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_contribs_jersey_spring_1_18_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_jersey_core_1_18_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_jersey_json_1_18_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_jersey_server_1_18_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_jersey_servlet_1_18_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_xml_bind_jaxb_impl_2_1_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_activation_activation_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_mail_mail_1_4_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_servlet_api_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_ws_rs_jsr311_api_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_xml_bind_jaxb_api_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_xml_stream_stax_api_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_restlet_gae_org_restlet_2_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_restlet_gae_org_restlet_ext_jaxrs_noruntimedel_2_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_restlet_gae_org_restlet_ext_json_2_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_restlet_gae_org_restlet_ext_servlet_2_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_restlet_gae_org_restlet_lib_org_json_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/grails.factories" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/generator/CodeGenerator.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/generator/CodeGenerator.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/support/ConverterUtils.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/support/ConverterUtils.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/DefaultGrailsProviderClass.java" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/DefaultGrailsProviderClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/DefaultGrailsResourceClass.java" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/DefaultGrailsResourceClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/support/DomainObjectReaderSupport.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/support/DomainObjectReaderSupport.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/support/DomainObjectWriterSupport.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/support/DomainObjectWriterSupport.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/integration-test/groovy/org/grails/jaxrs/itest/ExampleIntegrationTest.groovy" afterPath="$PROJECT_DIR$/src/integration-test/groovy/org/grails/jaxrs/itest/ExampleIntegrationTest.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/itest/IntegrationTestCase.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/itest/IntegrationTestCase.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/itest/IntegrationTestEnvironment.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/itest/IntegrationTestEnvironment.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/itest/IntegrationTestSpec.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/itest/IntegrationTestSpec.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/JSONReader.java" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/JSONReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/JSONWriter.java" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/JSONWriter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/org/grails/jaxrs/JaxrsControllerTests.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/org/grails/jaxrs/JaxrsControllerTests.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/JaxrsGrailsPlugin.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/JaxrsGrailsPlugin.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/ProviderArtefactHandler.java" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/ProviderArtefactHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/org/grails/jaxrs/support/ProviderSupportTests.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/org/grails/jaxrs/support/ProviderSupportTests.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/ResourceArtefactHandler.java" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/ResourceArtefactHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/XMLReader.java" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/XMLReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/XMLWriter.java" afterPath="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/XMLWriter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jaxrs.iml" afterPath="$PROJECT_DIR$/jaxrs.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="jaxrs.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -22,7 +65,12 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state />
+        </projects_view>
       </state>
     </system>
   </component>
@@ -31,19 +79,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JaxrsGrailsPlugin.groovy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/JaxrsGrailsPlugin.groovy">
+      <file leaf-file-name="grails.factories" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/grails.factories">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.015831135">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding>
-                <element signature="e#26#95#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.019323671">
+              <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -433,7 +482,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1440088248000" />
+        <entry key="$PROJECT_DIR$" value="1440093662000" />
         <entry key="$USER_HOME$/java_projects/vacd-historical" value="1438985465000" />
       </map>
     </option>
@@ -449,41 +498,126 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.4/62dc4f50804c40f3233977e2d3d1a4abca60bc41/groovy-2.4.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/e3c02049f2dbbc764681b40094ecf0dcbc99b157/logback-core-1.1.3.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/restlet/gae/org.restlet/2.1.4/org.restlet-2.1.4.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/restlet/gae/org.restlet.ext.servlet/2.1.4/org.restlet.ext.servlet-2.1.4.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/restlet/gae/org.restlet.ext.json/2.1.4/org.restlet.ext.json-2.1.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.5.RELEASE/8f1ee1f5e37723dd0e2cd3b05c6fc9268798b93d/spring-boot-autoconfigure-1.2.5.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/sun/jersey/jersey-core/1.18.1/jersey-core-1.18.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/sun/jersey/jersey-servlet/1.18.1/jersey-servlet-1.18.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/sun/jersey/jersey-server/1.18.1/jersey-server-1.18.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/sun/jersey/jersey-json/1.18.1/jersey-json-1.18.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/sun/jersey/contribs/jersey-spring/1.18.1/jersey-spring-1.18.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/restlet/gae/org.restlet.ext.jaxrs-noruntimedel/2.1.4/org.restlet.ext.jaxrs-noruntimedel-2.1.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.2.5.RELEASE/79df0d68a15dd5437010e46df1806482a7878e76/spring-boot-starter-logging-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-actuator/1.2.5.RELEASE/40bf8cebd6ce727abc1f671f9d7445f7f400a27d/spring-boot-starter-actuator-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.3.1/c621b54583719ac0310404463d6d99db27e1052c/commons-fileupload-1.3.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.2.5.RELEASE/9ac1752cd1a81b227d5f37e547077518df15a624/spring-boot-starter-tomcat-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-boot/3.0.4/be7e9d59e2987c90a6dc935b266422aac047c507/grails-web-boot-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.6/3e63a25de4065697b185f523ed5e020c0db3ff0/jackson-databind-2.4.6.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-io/commons-io/2.2/commons-io-2.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.7.RELEASE/8c6c02bcccfa23a74db59f7b7725e69e1af38f04/spring-context-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.6/7108cf65148f29a55ebf23db2c46224ea9d086dc/aspectjweaver-1.8.6.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/restlet/gae/org.restlet.lib.org.json/2.0/org.restlet.lib.org.json-2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.1.7.RELEASE/e52148e9671e2918a2172c9cf56b77bede2042ce/spring-beans-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/4.1.7.RELEASE/db508937a1033bd3267e57566044df705076dc6/spring-context-support-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-encoder/3.0.4/2bd60eceed8747f7a8fcc5943b87a558f0be897a/grails-encoder-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-databinding/3.0.4/54be8a27e1e5783ee180265b4ca7841b5b072dfc/grails-databinding-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-templates/2.4.4/4b5db7df9fd8ba93ef8633b5bb5f0961082bbc15/groovy-templates-2.4.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-gsp/3.0.4/fb8ded3fc9e4fe56ffe9503eb5420695b91441fd/grails-gsp-3.0.4.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/activation/activation/1.1.1/activation-1.1.1-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/activation/activation/1.1.1/activation-1.1.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/mail/mail/1.4.2/mail-1.4.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.0.4/721daf661e06f3caf40c0543c7070a8adbbeb983/grails-core-3.0.4.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/xml/bind/jaxb-api/2.1/jaxb-api-2.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.1.12/jaxb-impl-2.1.12.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.12/adef7a9e1263298255fdb5cb107ff171d07c82f3/jcl-over-slf4j-1.7.12.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.1.7.RELEASE/b6b9f604cb2223251cae67fff7ca2b1d9ff1c2d8/spring-webmvc-4.1.7.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2.4.4/c991073e2787ff9ef05bc04dcae7bddde05dcecb/groovy-xml-2.4.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/3.0.4/fb8b1a8d4c51a86134afc4e86db4b80def49d256/grails-web-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-datasource/3.0.4/7ee6a7e3bdbf54cf86dbde3619a7b44aaf3e3e1c/grails-plugin-datasource-3.0.4.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-gsp-taglib/3.0.4/b26f594b48244b9cc5c009e3909c3ebafb5a8405/grails-web-gsp-taglib-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-logging/3.0.4/d0b2100c55baef55db3c9bd27795fd69f88fac50/grails-logging-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.7.RELEASE/3465a5d3b24006d51482cf45abd13e347f64582a/spring-tx-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-events/3.0.4/b1377c5d783c7ade7629053b94c8a7dcd7227ef3/grails-plugin-events-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-validation/3.0.4/ded4a8876e44023448b39531b12187bc159727be/grails-validation-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.12/8811e2e9ab9055e557598dc9aedc64fd43e0ab20/jul-to-slf4j-1.7.12.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.12/d2444c9c7c1923304c25f86c5ee83a79a8166205/log4j-over-slf4j-1.7.12.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.concurrentlinkedhashmap/concurrentlinkedhashmap-lru/1.4/d4b42ed76a166a81dbac613339eed3343be6bd2d/concurrentlinkedhashmap-lru-1.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/d90276fff414f06cb375f2057f6778cd63c6082f/logback-classic-1.1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.5.RELEASE/416b6339599892cb33077c9fd901de7669c38cbe/spring-boot-starter-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/1.2.5.RELEASE/e4fb248898da60475d73a24b32797a591d6b763c/spring-boot-actuator-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/9f8e34eef228f44bda771c9dc62e9f1efa82c92d/spring-core-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-validation/3.0.4/209fb7d2dfed9a27b071c7e168c12e5624080660/grails-plugin-validation-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-async/3.0.4/6942ba8170f002deab8c6aa4f4bf1fa1ffebdf7a/grails-async-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-core/4.0.4.RELEASE/eebe5ea31bce5c5b716b7e5ad774835207fb34fb/grails-datastore-core-4.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-simple/4.0.4.RELEASE/aee1ee39fc8de3bca2c9d2af398ae8386be4e273/grails-datastore-simple-4.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-spring/3.0.4/3ea2133ebecc7dab1f91bb89bd8d5699c3a6937e/grails-spring-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm/4.0.4.RELEASE/af9c8226dd446f57bc0cf3fa03ec85e9f96e489b/grails-datastore-gorm-4.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.5.RELEASE/d12969adffe18f6f778451b1a8d1dab485ab4a03/spring-boot-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/d6a66c7a5f01cf500377bd669507a08cfeba882a/jackson-annotations-2.4.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.6/2a1f6edb86b8c6d29f37f6a807295d4e5c279707/jackson-core-2.4.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.1.7.RELEASE/127f005bac8ec1fbbbc5bb1595d78c6179394a46/spring-aop-4.1.7.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.14/c2df91929ed06a25001939929bff5120e0ea3fd4/snakeyaml-1.14.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.7.RELEASE/9bc3b81d05961f042ea4a45e84d60cdc59ea51f5/spring-expression-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.23/79dc3aea4f447392ab0bdc1359c31a931cd307d6/tomcat-embed-core-8.0.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.23/5a1ca084156665968232112b6606c0b259213aab/tomcat-embed-el-8.0.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.23/2ec89b09cb0eb133a03d9f513474f99ff667b93b/tomcat-embed-logging-juli-8.0.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.23/839167a26dec5dcef85fb19e2e429878b7215293/tomcat-embed-websocket-8.0.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.4.4/e381f7e5bbf9c278d516f387593519e629d732ba/groovy-json-2.4.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/3.0.4/9d9aceab4b094090b94db44c1efc0a1b4cb5940e/grails-web-common-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.1.7.RELEASE/2d9245006b788d7d6afeec85a43e4bfe2e46340a/spring-web-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-taglib/3.0.4/369196cdd9ca6eed4bfeeb6758638477e97b35e3/grails-taglib-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/5e731d961297e5a07290bfaf3db1fbc8bbbf405a/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xalan/serializer/2.7.2/24247f3bb052ee068971393bdb83e04512bb1c3c/serializer-2.7.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-fileupload/3.0.4/1f2c88b8cc5eca4def9c81fb56bf7eb76b600569/grails-web-fileupload-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-mvc/3.0.4/3c07a9235b6ad656dc1d097075844414e6af3bd2/grails-web-mvc-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.4/62dc4f50804c40f3233977e2d3d1a4abca60bc41/groovy-2.4.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-sitemesh/3.0.4/c54b6b8ed47d0af4b0a43c890771d64fdd6fe17d/grails-web-sitemesh-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.0.4/137b212de89b67cb5c341e13daab62cabed2c7e8/grails-web-databinding-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.0.4/38813f80a2e2f33ac79036e3df4645de006e1741/grails-web-url-mappings-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-jsp/3.0.4/40d3fe109b1da3e5e58c050b69c960b18bb18aa1/grails-web-jsp-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-gsp/3.0.4/9d13a1231d631b0146203b1312db86ff4042370/grails-web-gsp-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.1.7.RELEASE/5e4c9931acaf2857efe5f1ad27e4791c0855b8b2/spring-jdbc-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/7.0.55/3d00af6b2e5de5fa2df7bd7c7ec910495c774138/tomcat-jdbc-7.0.55.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-sql/2.4.4/31f88b0b0f3af7a86b187c73ee16551b5cf058c5/groovy-sql-2.4.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.1.7.RELEASE/7bba74bc38abf8fdaa8ad8288574edb4430ed490/spring-aspects-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.5/39a8ff2d1f79267907f5573c090b342b040b9682/aspectjrt-1.8.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-log4j/7.0.55/1e12baf15e15e713b3dc4353e51b0d7d18e010b8/tomcat-embed-logging-log4j-7.0.55.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-bus/2.0.3.RELEASE/8b7082b7094642ef366d499bd3ac83b38cc6c0bd/reactor-bus-2.0.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor.spring/reactor-spring-context/2.0.3.RELEASE/f6c7012cdc9312dc2be9cf47335aae289ea190e9/reactor-spring-context-2.0.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-validator/commons-validator/1.4.0/42fa1046955ade59f5354a1876cfc523cea33815/commons-validator-1.4.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.gpars/gpars/1.2.1/c3ea0fbcd67a163bd5e3a3efdaa3428262d0d437/gpars-1.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-stream/2.0.3.RELEASE/903dc5732f67e705fe9725b8a8b04cfd56ee5f99/reactor-stream-2.0.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/2.0.3.RELEASE/8cd926729690f88099cb172d490babb868bf8042/reactor-core-2.0.3.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/transaction/jta/1.1/jta-1.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-ant/2.4.4/86a8990d7dfe1266bc58f9015bc63051dc13145a/groovy-ant-2.4.4.jar" />
+                            <option value="$MAVEN_REPOSITORY$/opensymphony/sitemesh/2.4/sitemesh-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.0.4/87a8ffc8739092712f3ecf4c87203801542ac4f7/grails-web-taglib-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/7.0.55/7b0d3759db33865f882e77bdddb87c3cb28cecc3/tomcat-juli-7.0.55.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.goldmansachs/gs-collections/5.1.0/7114c5349c816ea645b1ea3ffcc21fa073cbabc/gs-collections-5.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/0.9.0/eb4e9cbfc09133cfe3101d5a70cfa35d8b71eeec/json-path-0.9.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor.spring/reactor-spring-core/2.0.3.RELEASE/eec1ae82fab5255b40d18d17052098322ca3bbaa/reactor-spring-core-2.0.3.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/codehaus/jsr166-mirror/jsr166y/1.7.0/jsr166y-1.7.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant/1.9.4/6d473e8653d952045f550f4ef225a9591b79094a/ant-1.9.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-groovydoc/2.4.4/9fdc0f6fc266e0d3a703629b855e59874869348e/groovy-groovydoc-2.4.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-antlr/1.9.4/4cf30025981dc2344324a0ef0e40063c3ef08f0a/ant-antlr-1.9.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-launcher/1.9.4/334b62cb4be0432769679e8b94e83f8fd5ed395c/ant-launcher-1.9.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-junit/1.9.4/b063757dacaa716b643c2f9270e469183636ff11/ant-junit-1.9.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/9f8e34eef228f44bda771c9dc62e9f1efa82c92d/spring-core-4.1.7.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-templates/2.4.4/4b5db7df9fd8ba93ef8633b5bb5f0961082bbc15/groovy-templates-2.4.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.2.5.RELEASE/79df0d68a15dd5437010e46df1806482a7878e76/spring-boot-starter-logging-1.2.5.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-actuator/1.2.5.RELEASE/40bf8cebd6ce727abc1f671f9d7445f7f400a27d/spring-boot-starter-actuator-1.2.5.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.5.RELEASE/8f1ee1f5e37723dd0e2cd3b05c6fc9268798b93d/spring-boot-autoconfigure-1.2.5.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.2.5.RELEASE/9ac1752cd1a81b227d5f37e547077518df15a624/spring-boot-starter-tomcat-1.2.5.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-boot/3.0.4/be7e9d59e2987c90a6dc935b266422aac047c507/grails-web-boot-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar" />
-                            <option value="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.12/adef7a9e1263298255fdb5cb107ff171d07c82f3/jcl-over-slf4j-1.7.12.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-gsp-taglib/3.0.4/b26f594b48244b9cc5c009e3909c3ebafb5a8405/grails-web-gsp-taglib-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-logging/3.0.4/d0b2100c55baef55db3c9bd27795fd69f88fac50/grails-logging-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/3.0.4/37f4df60e7da4d84f8bbe8fff73849a1112737b3/grails-plugin-codecs-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.goldmansachs/gs-collections-api/5.1.0/ea605cdf64cab5fc7b48c99f061d4c8db05b6ff1/gs-collections-api-5.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/1.2/199828b0a7be9626c6eaecb005baddd24bfddc1f/json-smart-1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.7.RELEASE/3465a5d3b24006d51482cf45abd13e347f64582a/spring-tx-4.1.7.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-events/3.0.4/b1377c5d783c7ade7629053b94c8a7dcd7227ef3/grails-plugin-events-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-validation/3.0.4/ded4a8876e44023448b39531b12187bc159727be/grails-validation-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.concurrentlinkedhashmap/concurrentlinkedhashmap-lru/1.4/d4b42ed76a166a81dbac613339eed3343be6bd2d/concurrentlinkedhashmap-lru-1.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/d6a66c7a5f01cf500377bd669507a08cfeba882a/jackson-annotations-2.4.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.6/2a1f6edb86b8c6d29f37f6a807295d4e5c279707/jackson-core-2.4.6.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.1.7.RELEASE/127f005bac8ec1fbbbc5bb1595d78c6179394a46/spring-aop-4.1.7.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.1.7.RELEASE/e52148e9671e2918a2172c9cf56b77bede2042ce/spring-beans-4.1.7.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-bootstrap/3.0.4/8994582ad577d9dd8e7afec909ad2a8f2bd00229/grails-bootstrap-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.7.RELEASE/9bc3b81d05961f042ea4a45e84d60cdc59ea51f5/spring-expression-4.1.7.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.0.4/3c5facfab9de7c477312e6fd2e126ea6026c6124/grails-plugin-rest-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-databinding/3.0.4/f6b2a1aa138393954e2579fad663dc6e16afda14/grails-plugin-databinding-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-i18n/3.0.4/9a1abc63d0e712fa19173a3e1faca6ff5d4eb387/grails-plugin-i18n-3.0.4.jar" />
@@ -491,81 +625,14 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-gsp/3.0.4/e1901c52aff329696a0e4c54d87808ba6d20a2e8/grails-plugin-gsp-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-services/3.0.4/ed7ef7554f2af885d06408db1b1a0e9479f2a274/grails-plugin-services-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-url-mappings/3.0.4/c8ce950dab34b42ea2f287e75ca81a0fcf7d1d7f/grails-plugin-url-mappings-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.4.4/e381f7e5bbf9c278d516f387593519e629d732ba/groovy-json-2.4.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/3.0.4/d32eefe2361c2fc9c08033414e248db3bda2f222/grails-plugin-interceptors-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.1.7.RELEASE/2d9245006b788d7d6afeec85a43e4bfe2e46340a/spring-web-4.1.7.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-async/3.0.4/1e2e723ef3bbd35fb1ea479807b1af4d77437f5d/grails-plugin-async-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.3.176/fd369423346b2f1525c413e33f8cf95b09c92cbd/h2-1.3.176.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/e3c02049f2dbbc764681b40094ecf0dcbc99b157/logback-core-1.1.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-taglib/3.0.4/369196cdd9ca6eed4bfeeb6758638477e97b35e3/grails-taglib-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-spring/3.0.4/3ea2133ebecc7dab1f91bb89bd8d5699c3a6937e/grails-spring-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.12/8811e2e9ab9055e557598dc9aedc64fd43e0ab20/jul-to-slf4j-1.7.12.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.6/3e63a25de4065697b185f523ed5e020c0db3ff0/jackson-databind-2.4.6.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/5e731d961297e5a07290bfaf3db1fbc8bbbf405a/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.12/d2444c9c7c1923304c25f86c5ee83a79a8166205/log4j-over-slf4j-1.7.12.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.7.RELEASE/8c6c02bcccfa23a74db59f7b7725e69e1af38f04/spring-context-4.1.7.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/d90276fff414f06cb375f2057f6778cd63c6082f/logback-classic-1.1.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xalan/serializer/2.7.2/24247f3bb052ee068971393bdb83e04512bb1c3c/serializer-2.7.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.5.RELEASE/416b6339599892cb33077c9fd901de7669c38cbe/spring-boot-starter-1.2.5.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-fileupload/3.0.4/1f2c88b8cc5eca4def9c81fb56bf7eb76b600569/grails-web-fileupload-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/1.2.5.RELEASE/e4fb248898da60475d73a24b32797a591d6b763c/spring-boot-actuator-1.2.5.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-mvc/3.0.4/3c07a9235b6ad656dc1d097075844414e6af3bd2/grails-web-mvc-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-sitemesh/3.0.4/c54b6b8ed47d0af4b0a43c890771d64fdd6fe17d/grails-web-sitemesh-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.0.4/137b212de89b67cb5c341e13daab62cabed2c7e8/grails-web-databinding-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/4.1.7.RELEASE/db508937a1033bd3267e57566044df705076dc6/spring-context-support-4.1.7.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.0.4/38813f80a2e2f33ac79036e3df4645de006e1741/grails-web-url-mappings-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.6/7108cf65148f29a55ebf23db2c46224ea9d086dc/aspectjweaver-1.8.6.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-encoder/3.0.4/2bd60eceed8747f7a8fcc5943b87a558f0be897a/grails-encoder-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-jsp/3.0.4/40d3fe109b1da3e5e58c050b69c960b18bb18aa1/grails-web-jsp-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-gsp/3.0.4/9d13a1231d631b0146203b1312db86ff4042370/grails-web-gsp-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-databinding/3.0.4/54be8a27e1e5783ee180265b4ca7841b5b072dfc/grails-databinding-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.1.7.RELEASE/5e4c9931acaf2857efe5f1ad27e4791c0855b8b2/spring-jdbc-4.1.7.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/7.0.55/3d00af6b2e5de5fa2df7bd7c7ec910495c774138/tomcat-jdbc-7.0.55.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-sql/2.4.4/31f88b0b0f3af7a86b187c73ee16551b5cf058c5/groovy-sql-2.4.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-validation/3.0.4/209fb7d2dfed9a27b071c7e168c12e5624080660/grails-plugin-validation-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-gsp/3.0.4/fb8ded3fc9e4fe56ffe9503eb5420695b91441fd/grails-gsp-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-async/3.0.4/6942ba8170f002deab8c6aa4f4bf1fa1ffebdf7a/grails-async-3.0.4.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-converters/3.0.4/f1516f5e54f71f8a29d2f8c1cbcea1c38fafd241/grails-plugin-converters-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.5.RELEASE/d12969adffe18f6f778451b1a8d1dab485ab4a03/spring-boot-1.2.5.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.0.4/721daf661e06f3caf40c0543c7070a8adbbeb983/grails-core-3.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.0.4/611e531f05e9f81d89fe8b6ea2f6b5a63aa0afe8/grails-plugin-controllers-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-mimetypes/3.0.4/264a5b77ac3dd1089f4402066aec153ee97ac750/grails-plugin-mimetypes-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.0.4/cc77f9079db3818bc039593b00a3b89a0dca2387/grails-plugin-domain-class-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.1.7.RELEASE/7bba74bc38abf8fdaa8ad8288574edb4430ed490/spring-aspects-4.1.7.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.5/39a8ff2d1f79267907f5573c090b342b040b9682/aspectjrt-1.8.5.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-log4j/7.0.55/1e12baf15e15e713b3dc4353e51b0d7d18e010b8/tomcat-embed-logging-log4j-7.0.55.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.23/79dc3aea4f447392ab0bdc1359c31a931cd307d6/tomcat-embed-core-8.0.23.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.23/5a1ca084156665968232112b6606c0b259213aab/tomcat-embed-el-8.0.23.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.23/2ec89b09cb0eb133a03d9f513474f99ff667b93b/tomcat-embed-logging-juli-8.0.23.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.23/839167a26dec5dcef85fb19e2e429878b7215293/tomcat-embed-websocket-8.0.23.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.1.7.RELEASE/b6b9f604cb2223251cae67fff7ca2b1d9ff1c2d8/spring-webmvc-4.1.7.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/3.0.4/9d9aceab4b094090b94db44c1efc0a1b4cb5940e/grails-web-common-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-bus/2.0.3.RELEASE/8b7082b7094642ef366d499bd3ac83b38cc6c0bd/reactor-bus-2.0.3.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor.spring/reactor-spring-context/2.0.3.RELEASE/f6c7012cdc9312dc2be9cf47335aae289ea190e9/reactor-spring-context-2.0.3.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-validator/commons-validator/1.4.0/42fa1046955ade59f5354a1876cfc523cea33815/commons-validator-1.4.0.jar" />
-                            <option value="$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.3.1/c621b54583719ac0310404463d6d99db27e1052c/commons-fileupload-1.3.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/opensymphony/sitemesh/2.4/sitemesh-2.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-core/4.0.4.RELEASE/eebe5ea31bce5c5b716b7e5ad774835207fb34fb/grails-datastore-core-4.0.4.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.0.4/87a8ffc8739092712f3ecf4c87203801542ac4f7/grails-web-taglib-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/7.0.55/7b0d3759db33865f882e77bdddb87c3cb28cecc3/tomcat-juli-7.0.55.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.gpars/gpars/1.2.1/c3ea0fbcd67a163bd5e3a3efdaa3428262d0d437/gpars-1.2.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/3.0.4/fb8b1a8d4c51a86134afc4e86db4b80def49d256/grails-web-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-stream/2.0.3.RELEASE/903dc5732f67e705fe9725b8a8b04cfd56ee5f99/reactor-stream-2.0.3.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/2.0.3.RELEASE/8cd926729690f88099cb172d490babb868bf8042/reactor-core-2.0.3.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-simple/4.0.4.RELEASE/aee1ee39fc8de3bca2c9d2af398ae8386be4e273/grails-datastore-simple-4.0.4.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm/4.0.4.RELEASE/af9c8226dd446f57bc0cf3fa03ec85e9f96e489b/grails-datastore-gorm-4.0.4.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-datasource/3.0.4/7ee6a7e3bdbf54cf86dbde3619a7b44aaf3e3e1c/grails-plugin-datasource-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.goldmansachs/gs-collections/5.1.0/7114c5349c816ea645b1ea3ffcc21fa073cbabc/gs-collections-5.1.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/0.9.0/eb4e9cbfc09133cfe3101d5a70cfa35d8b71eeec/json-path-0.9.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.0.4/611e531f05e9f81d89fe8b6ea2f6b5a63aa0afe8/grails-plugin-controllers-3.0.4.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor.spring/reactor-spring-core/2.0.3.RELEASE/eec1ae82fab5255b40d18d17052098322ca3bbaa/reactor-spring-core-2.0.3.RELEASE.jar" />
-                            <option value="$MAVEN_REPOSITORY$/commons-io/commons-io/2.2/commons-io-2.2.jar" />
-                            <option value="$MAVEN_REPOSITORY$/javax/transaction/jta/1.1/jta-1.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/codehaus/jsr166-mirror/jsr166y/1.7.0/jsr166y-1.7.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.goldmansachs/gs-collections-api/5.1.0/ea605cdf64cab5fc7b48c99f061d4c8db05b6ff1/gs-collections-api-5.1.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/1.2/199828b0a7be9626c6eaecb005baddd24bfddc1f/json-smart-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/3.0.4/37f4df60e7da4d84f8bbe8fff73849a1112737b3/grails-plugin-codecs-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-gradle-plugin/3.0.4/2c37320bb2a10feea84b8c2b07b9f03d7a80de4a/grails-gradle-plugin-3.0.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.2.RELEASE/f90777e7785259bb91811619b2b2b5d9f071ef39/dependency-management-plugin-0.5.2.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jfrog.bintray.gradle/gradle-bintray-plugin/1.2/ae174b2aa348ae742cdc63496b66bcbc8f15d5e0/gradle-bintray-plugin-1.2.jar" />
@@ -728,7 +795,27 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/itest/IntegrationTestEnvironment.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/JSONReader.java" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/XMLReader.java" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/support/ConverterUtils.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/support/DomainObjectReaderSupport.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/support/DomainObjectWriterSupport.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/JaxrsGrailsPlugin.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/DefaultGrailsProviderClass.java" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/itest/IntegrationTestCase.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/JSONWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/XMLWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/DefaultGrailsResourceClass.java" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/ResourceArtefactHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/ProviderArtefactHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/generator/CodeGenerator.groovy" />
+        <option value="$PROJECT_DIR$/src/integration-test/groovy/org/grails/jaxrs/itest/ExampleIntegrationTest.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/itest/IntegrationTestSpec.groovy" />
+        <option value="$PROJECT_DIR$/src/test/groovy/org/grails/jaxrs/JaxrsControllerTests.groovy" />
+        <option value="$PROJECT_DIR$/src/test/groovy/org/grails/jaxrs/support/ProviderSupportTests.groovy" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/grails.factories" />
       </list>
     </option>
   </component>
@@ -747,10 +834,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="312" />
-    <option name="y" value="66" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="x" value="49" />
+    <option name="y" value="23" />
+    <option name="width" value="1441" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -845,11 +932,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="groovy" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="jaxrs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jaxrs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -897,7 +1006,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -1228,40 +1337,42 @@
       <created>1440089331078</created>
       <option name="number" value="Default" />
       <updated>1440089331078</updated>
-      <workItem from="1440089333169" duration="796000" />
+      <workItem from="1440089333169" duration="8517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="796000" />
+    <option name="totallyTimeSpent" value="8517000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="312" y="66" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="49" y="23" width="1441" height="1046" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44181034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938075" sideWeight="0.5028612" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297414" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3275862" sideWeight="0.49713877" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494639" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1276,54 +1387,559 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/itest/IntegrationTestCase.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6912929">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3166227">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.13926499">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding>
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="{" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="}" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="{" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="}" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="{" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="}" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="{" />
-            <marker date="1440088248000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="false" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440097875000" expanded="true" signature="-1:-1" placeholder="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/JSONWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23210831">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <marker date="1440097931000" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1440097931000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1440097931000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440097931000" expanded="true" signature="-1:-1" placeholder="@{...}" />
+            <marker date="1440097931000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440097931000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/provider/XMLWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06260032">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <marker date="1440097930000" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1440097930000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1440097930000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440097930000" expanded="true" signature="-1:-1" placeholder="@{...}" />
+            <marker date="1440097930000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440097930000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/GrailsResourceClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1540931">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <marker date="1440088433000" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1440088433000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.0.4/293dcea3c3ab72473c3991c8d70cbd80461f8151/grails-core-3.0.4-sources.jar!/org/grails/core/AbstractGrailsClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26966292">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+          <folding>
+            <marker date="1438179058000" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1438179058000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.0.4/293dcea3c3ab72473c3991c8d70cbd80461f8151/grails-core-3.0.4-sources.jar!/org/grails/core/AbstractInjectableGrailsClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2504013">
+          <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+          <folding>
+            <marker date="1438179058000" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/DefaultGrailsResourceClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23113964">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <marker date="1440098004000" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1440098004000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440098004000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098004000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/DefaultGrailsProviderClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1540931">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <marker date="1440095513000" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/ProviderArtefactHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28892455">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <marker date="1440098493000" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1440098493000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1440098493000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440098493000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098493000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440098493000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/generator/CodeGenerator.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33226323">
+          <caret line="85" column="37" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
+          <folding>
+            <marker date="1440098555000" expanded="false" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098555000" expanded="true" signature="-1:-1" placeholder="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/integration-test/groovy/org/grails/jaxrs/itest/ExampleIntegrationTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09630819">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1440098645000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1440098645000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098645000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098645000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/itest/IntegrationTestSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.13483146">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+          <folding>
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440098701000" expanded="true" signature="-1:-1" placeholder="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-testing/3.0.4/80538079992378dd799099b9e00369ab99b06e86/grails-plugin-testing-3.0.4-sources.jar!/grails/test/mixin/support/GrailsUnitTestMixin.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19261637">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding>
+            <marker date="1438179058000" expanded="false" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1438179058000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-testing/3.0.4/80538079992378dd799099b9e00369ab99b06e86/grails-plugin-testing-3.0.4-sources.jar!/grails/test/mixin/web/ControllerUnitTestMixin.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5425361">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+          <folding>
+            <marker date="1438179058000" expanded="false" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1438179058000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1438179058000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/org/grails/jaxrs/JaxrsClassesTests.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17335473">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding>
+            <marker date="1440088647000" expanded="false" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1440088647000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1440088647000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440088647000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440088647000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/org/grails/jaxrs/JaxrsControllerTests.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32744783">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1440099114000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1440099114000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440099114000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/org/grails/jaxrs/support/ProviderSupportTests.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3883495">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
+          <folding>
+            <marker date="1440099114000" expanded="false" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1440099114000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1440099114000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440099114000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440099114000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1440099114000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440099114000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440099114000" expanded="true" signature="-1:-1" placeholder="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/web/JaxrsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14239483">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <marker date="1440088433000" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1440088433000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1440088433000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440088433000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440088433000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440088433000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440088433000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/ResourceArtefactHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18122977">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+          <folding>
+            <marker date="1440098466000" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1440098466000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1440098466000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440098466000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440098466000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440098466000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/org/grails/jaxrs/JaxrsGrailsPlugin.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.015831135">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.051779937">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding>
-            <element signature="e#26#95#0" expanded="true" />
+            <marker date="1440095513000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="}" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="{" />
+            <marker date="1440095513000" expanded="true" signature="-1:-1" placeholder="}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/grails.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.019323671">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.restlet.gae:org.restlet.lib.org.json:2.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/restlet/gae/org.restlet.lib.org.json/2.0/org.restlet.lib.org.json-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

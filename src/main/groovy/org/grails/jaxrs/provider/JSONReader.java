@@ -15,8 +15,8 @@
  */
 package org.grails.jaxrs.provider;
 
-import org.codehaus.groovy.grails.commons.GrailsApplication;
-import org.codehaus.groovy.grails.plugins.support.aware.GrailsApplicationAware;
+import grails.core.GrailsApplication;
+import grails.core.support.GrailsApplicationAware;
 import org.grails.jaxrs.support.ConverterUtils;
 import org.grails.jaxrs.support.MessageBodyReaderSupport;
 

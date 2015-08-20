@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.restlet.gae:org.restlet.ext.jaxrs-noruntimedel:2.1.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/restlet/gae/org.restlet.ext.jaxrs-noruntimedel/2.1.4/org.restlet.ext.jaxrs-noruntimedel-2.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

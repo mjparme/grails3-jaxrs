@@ -19,13 +19,13 @@ import grails.converters.JSON
 import grails.converters.XML
 import groovy.json.JsonSlurper
 import org.apache.commons.logging.LogFactory
-import org.codehaus.groovy.grails.commons.GrailsApplication
+import grails.core.GrailsApplication
 import org.grails.databinding.xml.GPathResultMap
 
 import javax.ws.rs.core.MediaType
 import javax.ws.rs.core.MultivaluedMap
 
-import static org.codehaus.groovy.grails.web.converters.configuration.ConvertersConfigurationHolder.getConverterConfiguration
+import static org.grails.web.converters.configuration.ConvertersConfigurationHolder.getConverterConfiguration
 
 /**
  * Utility class for XML to map conversions.

@@ -15,9 +15,9 @@
  */
 package org.grails.jaxrs;
 
+import grails.core.ArtefactHandlerAdapter;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.codehaus.groovy.grails.commons.ArtefactHandlerAdapter;
 
 /**
  * @author Martin Krasser
@@ -29,7 +29,7 @@ public class ResourceArtefactHandler extends ArtefactHandlerAdapter {
     public static final String TYPE = "Resource";
 
     public ResourceArtefactHandler() {
-        super(TYPE, GrailsResourceClass.class, DefaultGrailsResourceClass.class, TYPE);
+        super(TYPE, DefaultGrailsResourceClass.class, DefaultGrailsResourceClass.class, TYPE);
     }
 
     /**

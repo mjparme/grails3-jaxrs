@@ -4,10 +4,10 @@ import org.grails.jaxrs.test.CustomRequestEntityReader
 import org.grails.jaxrs.test.CustomResponseEntityWriter
 import org.grails.jaxrs.test.TestResource01
 import org.grails.jaxrs.test.TestResource02
-
-import static org.junit.Assert.*
-
 import org.junit.Test
+
+import static org.junit.Assert.assertEquals
+import static org.junit.Assert.assertTrue
 
 class ExampleIntegrationTest extends IntegrationTestCase {
 

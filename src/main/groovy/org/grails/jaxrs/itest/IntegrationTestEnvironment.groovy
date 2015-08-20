@@ -21,8 +21,8 @@ import javax.servlet.ServletContextEvent
 import javax.servlet.ServletContextListener
 
 import grails.util.Holders
-import org.codehaus.groovy.grails.commons.GrailsApplication
-import org.codehaus.groovy.grails.commons.spring.GrailsWebApplicationContext
+import grails.core.GrailsApplication
+import grails.web.servlet.context.GrailsWebApplicationContext
 import org.grails.jaxrs.ProviderArtefactHandler
 import org.grails.jaxrs.ResourceArtefactHandler
 import org.grails.jaxrs.provider.DomainObjectReader

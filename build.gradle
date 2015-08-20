@@ -26,8 +26,8 @@ apply plugin: "spring-boot"
 apply plugin: "org.grails.grails-plugin"
 apply plugin: "org.grails.grails-gsp"
 // Used for publishing to central repository, remove if not needed
-apply from:'https://raw.githubusercontent.com/grails/grails-profile-repository/master/profiles/plugin/templates/grailsCentralPublishing.gradle'
-apply from:'https://raw.githubusercontent.com/grails/grails-profile-repository/master/profiles/plugin/templates/bintrayPublishing.gradle'
+apply from: 'https://raw.githubusercontent.com/grails/grails-profile-repository/master/profiles/plugin/templates/grailsCentralPublishing.gradle'
+apply from: 'https://raw.githubusercontent.com/grails/grails-profile-repository/master/profiles/plugin/templates/bintrayPublishing.gradle'
 
 ext {
     grailsVersion = project.grailsVersion
@@ -52,6 +52,84 @@ dependencyManagement {
 }
 
 dependencies {
+    String restletVersion = '2.1.4'
+    String jerseyVersion = '1.18.1'
+
+    compile "org.restlet.gae:org.restlet:$restletVersion"
+
+    compile("org.restlet.gae:org.restlet.ext.servlet:$restletVersion") {
+        exclude group: 'org.restlet', module: 'servlet-api'
+    }
+
+    // A modified version (with removed META-INF/services/javax.ws.rs.ext.RuntimeDelegate)
+    // is contained in project's custom lib directory and repository. This is needed because of a bug described
+    // at http://restlet.tigris.org/issues/show_bug.cgi?id=1251
+    provided group: 'org.restlet.gae',
+            name: 'org.restlet.ext.jaxrs-noruntimedel',
+            version: restletVersion
+
+    compile("org.restlet.gae:org.restlet.ext.json:$restletVersion") {
+        exclude group: 'org.restlet'
+    }
+
+    compile("com.sun.jersey:jersey-core:$jerseyVersion") {
+        exclude module: 'jaxb-api'
+        exclude module: 'jsr311-api'
+        exclude module: 'junit'
+        exclude module: 'mail'
+        exclude group: 'org.osgi.core'
+    }
+
+    compile("com.sun.jersey:jersey-servlet:$jerseyVersion") {
+        exclude module: 'ant'
+        exclude module: 'commons-io'
+        exclude module: 'javax.ejb'
+        exclude module: 'javax.servlet-api'
+        exclude module: 'jsp-api'
+        exclude module: 'junit'
+        exclude module: 'osgi_R4_core'
+        exclude module: 'persistence-api'
+        exclude module: 'weld-osgi-bundle'
+    }
+
+    compile("com.sun.jersey:jersey-server:$jerseyVersion") {
+        exclude module: 'asn'
+        exclude module: 'commons-io'
+        exclude module: 'jaxb-api'
+        exclude module: 'jsr250-api'
+        exclude module: 'junit-api'
+        exclude module: 'mail-api'
+        exclude module: 'osgi_R4_core'
+    }
+
+    compile("com.sun.jersey:jersey-json:$jerseyVersion") {
+        exclude module: 'jackson-core-asl'
+        exclude module: 'jackson-jaxrs'
+        exclude module: 'jackson-mapper-asl'
+        exclude module: 'jackson-xc'
+        exclude module: 'jaxb-impl'
+        exclude module: 'jettison'
+        exclude module: 'junit'
+        exclude module: 'org.eclipse.persistence.moxy'
+    }
+
+    compile("com.sun.jersey.contribs:jersey-spring:$jerseyVersion") {
+        exclude module: 'jaxb-impl'
+        exclude module: 'jsr250-api'
+        exclude module: 'junit'
+        exclude module: 'servlet-api'
+        exclude module: 'testing'
+        exclude module: 'spring-core'
+        exclude module: 'spring-bean'
+        exclude module: 'spring-context'
+        exclude module: 'spring-web'
+        exclude module: 'spring-aop'
+    }
+
+    compile('javax.ws.rs:jsr311-api:1.1.1') {
+        exclude module: 'junit'
+    }
+
     provided 'org.springframework.boot:spring-boot-starter-logging'
     provided "org.springframework.boot:spring-boot-starter-actuator"
     provided "org.springframework.boot:spring-boot-autoconfigure"
